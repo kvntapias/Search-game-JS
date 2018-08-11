@@ -1,0 +1,13 @@
+C:\Users\APRENDIZ\Downloads\emailcsharp\PISTAS\PISTAS\bin\PISTAS.dll.config
+C:\Users\APRENDIZ\Downloads\emailcsharp\PISTAS\PISTAS\bin\PISTAS.dll
+C:\Users\APRENDIZ\Downloads\emailcsharp\PISTAS\PISTAS\bin\PISTAS.pdb
+C:\Users\APRENDIZ\Downloads\emailcsharp\PISTAS\PISTAS\obj\Debug\PISTAS.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Downloads\emailcsharp\PISTAS\PISTAS\obj\Debug\PISTAS.dll
+C:\Users\APRENDIZ\Downloads\emailcsharp\PISTAS\PISTAS\obj\Debug\PISTAS.pdb
+C:\Users\kvn\Downloads\PISTAS\PISTAS\bin\PISTAS.dll.config
+C:\Users\kvn\Downloads\PISTAS\PISTAS\bin\PISTAS.dll
+C:\Users\kvn\Downloads\PISTAS\PISTAS\bin\PISTAS.pdb
+C:\Users\kvn\Downloads\PISTAS\PISTAS\obj\Debug\PISTAS.csprojAssemblyReference.cache
+C:\Users\kvn\Downloads\PISTAS\PISTAS\obj\Debug\PISTAS.csproj.CoreCompileInputs.cache
+C:\Users\kvn\Downloads\PISTAS\PISTAS\obj\Debug\PISTAS.dll
+C:\Users\kvn\Downloads\PISTAS\PISTAS\obj\Debug\PISTAS.pdb

@@ -1,0 +1,89 @@
+﻿
+.mainImg{
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+label{
+    font-size: 1.6em;
+    margin-left: 110px;
+}
+
+.pista{
+    display:inline;
+    font-size: 1.3em;
+}
+
+button{
+    height: 25px;
+    width: 200px;
+    font-family: sans-serif;
+}
+
+    button:hover {
+        background-color:#EADADA;
+        cursor:pointer;
+        font-family: sans-serif;
+    }
+
+map{
+    position:relative;
+}
+
+.obj{
+    position:relative;
+    display: none;
+}
+
+#obj1 {
+    height: 200px;
+    width: 15px;
+    /*border: 1px solid blue;*/
+    position: absolute;
+    right: 210px;
+    bottom: 100px;
+}
+
+#obj2 {
+    /*border: 1px solid red;*/
+    position: absolute;
+    right: 373px;
+    bottom: 119px;
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+}
+
+#obj3 {
+    /*border: 1px solid yellow;*/
+    position: absolute;
+    right: 100px;
+    bottom: 19px;
+    width: 100px;
+    height: 90px;
+    border-radius: 20px;
+}
+
+.msg{
+    border: 1px solid black;
+    width: 600px;
+}
+
+.container, h1 {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.container {
+    border: 1px solid gray;
+}
+
+h3, h4, h1{
+    margin-top:0px;
+    padding-top:0px;
+}
+
+#fin{
+}
